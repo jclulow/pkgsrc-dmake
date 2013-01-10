@@ -1,0 +1,5 @@
+This repository contains a Makefile (and supporting code) to re-prefix the Sun
+Distributed Make (dmake) binary from the redistributable Sun Studio 12u1 and
+produce an installable pkgsrc package for use in building illumos-gate.
+
+License terms on included components available in licenses/ in this repository.
